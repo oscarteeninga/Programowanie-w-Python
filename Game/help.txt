@@ -1,0 +1,9 @@
+It is a very easy game which imitates real football.
+
+To move a ball, click on the screen.
+
+To win, you need to insert the ball into your
+opponent goal.
+
+You lose, if you lose a goal (obviously) or if you
+cannot make a move.
